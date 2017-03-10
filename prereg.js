@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4187303773
+    Version: 4187303773
     Link: https://vk.com/js/al/prereg.js?4187303773
     Last Update: 10.2.117
 */

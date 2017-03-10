@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1821546750
+    Version: 1821546750
     Link: https://vk.com/js/al/tooltips.js?1821546750
     Last Update: 10.2.117
 */

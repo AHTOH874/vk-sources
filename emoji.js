@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4179107526
+    Version: 4179107526
     Link: https://vk.com/js/al/emoji.js?4179107526
     Last Update: 10.2.117
 */

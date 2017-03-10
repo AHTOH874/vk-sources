@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2040438164
+    Version: 2040438164
     Link: https://vk.com/js/al/lite.js?2040438164
     Last Update: 10.2.117
 */

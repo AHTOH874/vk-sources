@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 284788792
+    Version: 284788792
     Link: https://vk.com/js/al/pinbar.js?284788792
     Last Update: 10.2.117
 */

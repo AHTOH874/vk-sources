@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2171766428
+    Version: 2171766428
     Link: https://vk.com/js/al/photoview.js?2171766428
     Last Update: 10.2.117
 */

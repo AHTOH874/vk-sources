@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 760473537
+    Version: 760473537
     Link: https://vk.com/js/al/postbox.js?760473537
     Last Update: 10.2.117
 */

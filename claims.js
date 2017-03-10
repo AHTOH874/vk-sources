@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 577939270
+    Version: 577939270
     Link: https://vk.com/js/al/claims.js?577939270
     Last Update: 10.2.117
 */

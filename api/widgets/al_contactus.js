@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3360514866
+    Version: 3360514866
     Link: https://vk.com/js/api/widgets/al_contactus.js?3360514866
     Last Update: 10.2.117
 */

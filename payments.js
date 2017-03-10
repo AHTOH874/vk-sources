@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4066298509
+    Version: 4066298509
     Link: https://vk.com/js/al/payments.js?4066298509
     Last Update: 10.2.117
 */

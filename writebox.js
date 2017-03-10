@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 6141701117
+    Version: 6141701117
     Link: https://vk.com/js/al/writebox.js?6141701117
     Last Update: 10.2.117
 */

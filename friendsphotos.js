@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 169519698
+    Version: 169519698
     Link: https://vk.com/js/al/friendsphotos.js?169519698
     Last Update: 10.2.117
 */

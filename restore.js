@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 746817657
+    Version: 746817657
     Link: https://vk.com/js/al/restore.js?746817657
     Last Update: 10.2.117
 */

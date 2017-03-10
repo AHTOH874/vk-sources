@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3882247419
+    Version: 3882247419
     Link: https://vk.com/js/al/graph.js?3882247419
     Last Update: 10.2.117
 */

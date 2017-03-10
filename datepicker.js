@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 808741082
+    Version: 808741082
     Link: https://vk.com/js/al/datepicker.js?808741082
     Last Update: 10.2.117
 */

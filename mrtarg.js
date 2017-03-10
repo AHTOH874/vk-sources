@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1146267795
+    Version: 1146267795
     Link: https://vk.com/js/al/mrtarg.js?1146267795
     Last Update: 10.2.117
 */

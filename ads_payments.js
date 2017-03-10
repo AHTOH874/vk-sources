@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2909099260
+    Version: 2909099260
     Link: https://vk.com/js/al/ads_payments.js?2909099260
     Last Update: 10.2.117
 */

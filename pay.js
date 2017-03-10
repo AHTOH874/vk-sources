@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1463178433
+    Version: 1463178433
     Link: https://vk.com/js/al/pay.js?1463178433
     Last Update: 10.2.117
 */

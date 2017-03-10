@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3688413939
+    Version: 3688413939
     Link: https://vk.com/js/al/friends_search.js?3688413939
     Last Update: 10.2.117
 */

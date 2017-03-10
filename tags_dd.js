@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3735969205
+    Version: 3735969205
     Link: https://vk.com/js/al/tags_dd.js?3735969205
     Last Update: 10.2.117
 */

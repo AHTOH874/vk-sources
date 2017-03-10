@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 600540081
+    Version: 600540081
     Link: https://vk.com/js/al/faq.js?600540081
     Last Update: 10.2.117
 */

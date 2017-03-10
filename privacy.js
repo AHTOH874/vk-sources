@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3875115925
+    Version: 3875115925
     Link: https://vk.com/js/al/privacy.js?3875115925
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3013204428
+    Version: 3013204428
     Link: https://vk.com/js/al/aes_light.js?3013204428
     Last Update: 10.2.117
 */

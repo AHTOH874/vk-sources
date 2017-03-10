@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3843850841
+    Version: 3843850841
     Link: https://vk.com/js/al/sharebox.js?3843850841
     Last Update: 10.2.117
 */

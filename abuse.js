@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2562479185
+    Version: 2562479185
     Link: https://vk.com/js/al/abuse.js?2562479185
     Last Update: 10.2.117
 */

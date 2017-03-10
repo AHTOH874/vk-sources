@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1618923991
+    Version: 1618923991
     Link: https://vk.com/js/al/videocat.js?1618923991
     Last Update: 10.2.117
 */

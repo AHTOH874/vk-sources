@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1641838680
+    Version: 1641838680
     Link: https://vk.com/js/al/talmud.js?1641838680
     Last Update: 10.2.117
 */

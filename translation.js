@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2541156631
+    Version: 2541156631
     Link: https://vk.com/js/al/translation.js?2541156631
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 333150
+    Version: 333150
     Link: https://vk.com/js/al/btagger.js?333150
     Last Update: 10.2.117
 */

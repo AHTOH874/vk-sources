@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2135196486
+    Version: 2135196486
     Link: https://vk.com/js/al/video_edit.js?2135196486
     Last Update: 10.2.117
 */

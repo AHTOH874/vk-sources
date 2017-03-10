@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3132590274
+    Version: 3132590274
     Link: https://vk.com/js/al/videoview.js?3132590274
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2539325945
+    Version: 2539325945
     Link: https://vk.com/js/api/widgets/al_allow_messages_from_community.js?2539325945
     Last Update: 10.2.117
 */

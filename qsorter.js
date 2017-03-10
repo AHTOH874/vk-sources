@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4013122173
+    Version: 4013122173
     Link: https://vk.com/js/al/qsorter.js?4013122173
     Last Update: 10.2.117
 */

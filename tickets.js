@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3747535527
+    Version: 3747535527
     Link: https://vk.com/js/al/tickets.js?3747535527
     Last Update: 10.2.117
 */

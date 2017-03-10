@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 338252255
+    Version: 338252255
     Link: https://vk.com/js/al/gifts.js?338252255
     Last Update: 10.2.117
 */

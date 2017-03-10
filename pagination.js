@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1027022568
+    Version: 1027022568
     Link: https://vk.com/js/al/pagination.js?1027022568
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3212870034
+    Version: 3212870034
     Link: https://vk.com/js/al/friends.js?3212870034
     Last Update: 10.2.117
 */

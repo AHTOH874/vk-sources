@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 188714712
+    Version: 188714712
     Link: https://vk.com/js/al/bugtracker.js?188714712
     Last Update: 10.2.117
 */

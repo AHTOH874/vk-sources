@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 270622120
+    Version: 270622120
     Link: https://vk.com/js/al/ads.js?270622120
     Last Update: 10.2.117
 */

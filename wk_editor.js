@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2318898403
+    Version: 2318898403
     Link: https://vk.com/js/al/wk_editor.js?2318898403
     Last Update: 10.2.117
 */

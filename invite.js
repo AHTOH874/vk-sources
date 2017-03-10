@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4133426028
+    Version: 4133426028
     Link: https://vk.com/js/al/invite.js?4133426028
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4098038985
+    Version: 4098038985
     Link: https://vk.com/js/al/qsearch.js?4098038985
     Last Update: 10.2.117
 */

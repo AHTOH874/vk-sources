@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3874995669
+    Version: 3874995669
     Link: https://vk.com/js/al/bugs.js?3874995669
     Last Update: 10.2.117
 */

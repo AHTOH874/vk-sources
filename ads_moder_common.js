@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 187287116
+    Version: 187287116
     Link: https://vk.com/js/al/ads_moder_common.js?187287116
     Last Update: 10.2.117
 */

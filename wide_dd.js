@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3323487336
+    Version: 3323487336
     Link: https://vk.com/js/al/wide_dd.js?3323487336
     Last Update: 10.2.117
 */

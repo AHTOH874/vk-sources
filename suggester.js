@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3718548841
+    Version: 3718548841
     Link: https://vk.com/js/al/suggester.js?3718548841
     Last Update: 10.2.117
 */

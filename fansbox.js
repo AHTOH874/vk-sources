@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2740474922
+    Version: 2740474922
     Link: https://vk.com/js/al/fansbox.js?2740474922
     Last Update: 10.2.117
 */

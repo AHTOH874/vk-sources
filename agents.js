@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1228491530
+    Version: 1228491530
     Link: https://vk.com/js/al/agents.js?1228491530
     Last Update: 10.2.117
 */

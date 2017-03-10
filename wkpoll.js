@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 534542755
+    Version: 534542755
     Link: https://vk.com/js/al/wkpoll.js?534542755
     Last Update: 10.2.117
 */

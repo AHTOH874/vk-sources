@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 362016183
+    Version: 362016183
     Link: https://vk.com/js/al/usorter.js?362016183
     Last Update: 10.2.117
 */

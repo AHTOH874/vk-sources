@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1733633534
+    Version: 1733633534
     Link: https://vk.com/js/al/audio.js?1733633534
     Last Update: 10.2.117
 */

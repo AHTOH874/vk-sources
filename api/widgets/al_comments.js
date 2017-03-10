@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 920774215
+    Version: 920774215
     Link: https://vk.com/js/api/widgets/al_comments.js?920774215
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4291731025
+    Version: 4291731025
     Link: https://vk.com/js/al/audioplayer.js?4291731025
     Last Update: 10.2.117
 */

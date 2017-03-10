@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1524646384
+    Version: 1524646384
     Link: https://vk.com/js/al/uncommon.js?1524646384
     Last Update: 10.2.117
 */

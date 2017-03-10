@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 309818898
+    Version: 309818898
     Link: https://vk.com/js/al/pe.js?309818898
     Last Update: 10.2.117
 */

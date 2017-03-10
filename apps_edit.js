@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2664300316
+    Version: 2664300316
     Link: https://vk.com/js/al/apps_edit.js?2664300316
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4217435992
+    Version: 4217435992
     Link: https://vk.com/js/al/call.js?4217435992
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1634516705
+    Version: 1634516705
     Link: https://vk.com/js/al/ads_edit_geo.js?1634516705
     Last Update: 10.2.117
 */

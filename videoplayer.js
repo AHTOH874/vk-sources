@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 77882181513
+    Version: 77882181513
     Link: https://vk.com/js/al/videoplayer.js?77882181513
     Last Update: 10.2.117
 */

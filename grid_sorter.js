@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 703789694
+    Version: 703789694
     Link: https://vk.com/js/al/grid_sorter.js?703789694
     Last Update: 10.2.117
 */

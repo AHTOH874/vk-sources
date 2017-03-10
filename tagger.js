@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2640218940
+    Version: 2640218940
     Link: https://vk.com/js/al/tagger.js?2640218940
     Last Update: 10.2.117
 */

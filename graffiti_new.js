@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 67279821
+    Version: 67279821
     Link: https://vk.com/js/al/graffiti_new.js?67279821
     Last Update: 10.2.117
 */

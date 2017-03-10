@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3566580322
+    Version: 3566580322
     Link: https://vk.com/js/al/walledit.js?3566580322
     Last Update: 10.2.117
 */

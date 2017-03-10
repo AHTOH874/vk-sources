@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1714149322
+    Version: 1714149322
     Link: https://vk.com/js/al/owner_photo.js?1714149322
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 112384103
+    Version: 112384103
     Link: https://vk.com/js/al/profile_edit_mil.js?112384103
     Last Update: 10.2.117
 */

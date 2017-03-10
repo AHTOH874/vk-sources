@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1162259210
+    Version: 1162259210
     Link: https://vk.com/js/al/pages.js?1162259210
     Last Update: 10.2.117
 */

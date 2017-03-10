@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2834875544
+    Version: 2834875544
     Link: https://vk.com/js/al/spe.js?2834875544
     Last Update: 10.2.117
 */

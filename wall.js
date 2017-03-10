@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3216669114
+    Version: 3216669114
     Link: https://vk.com/js/al/wall.js?3216669114
     Last Update: 10.2.117
 */

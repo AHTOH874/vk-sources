@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 752775373
+    Version: 752775373
     Link: https://vk.com/js/al/index.js?752775373
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2438487008
+    Version: 2438487008
     Link: https://vk.com/js/al/video_youtube.js?2438487008
     Last Update: 10.2.117
 */

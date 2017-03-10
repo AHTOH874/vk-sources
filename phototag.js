@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2522467854
+    Version: 2522467854
     Link: https://vk.com/js/al/phototag.js?2522467854
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 492405
+    Version: 492405
     Link: https://vk.com/js/al/video_embed.js?492405
     Last Update: 10.2.117
 */

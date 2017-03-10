@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 662793453
+    Version: 662793453
     Link: https://vk.com/js/al/tasks.js?662793453
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2030679272
+    Version: 2030679272
     Link: https://vk.com/js/al/offers.js?2030679272
     Last Update: 10.2.117
 */

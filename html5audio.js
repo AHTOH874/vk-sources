@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 976782859
+    Version: 976782859
     Link: https://vk.com/js/al/html5audio.js?976782859
     Last Update: 10.2.117
 */

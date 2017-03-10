@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3404267347
+    Version: 3404267347
     Link: https://vk.com/js/al/wkview.js?3404267347
     Last Update: 10.2.117
 */

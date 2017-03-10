@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3840498487
+    Version: 3840498487
     Link: https://vk.com/js/al/video.js?3840498487
     Last Update: 10.2.117
 */

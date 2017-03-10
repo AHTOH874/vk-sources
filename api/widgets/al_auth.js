@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2044551244
+    Version: 2044551244
     Link: https://vk.com/js/api/widgets/al_auth.js?2044551244
     Last Update: 10.2.117
 */

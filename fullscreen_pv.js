@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2393839857
+    Version: 2393839857
     Link: https://vk.com/js/al/fullscreen_pv.js?2393839857
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1914960490
+    Version: 1914960490
     Link: https://vk.com/js/al/helpdesk.js?1914960490
     Last Update: 10.2.117
 */

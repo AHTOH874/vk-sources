@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 942087830
+    Version: 942087830
     Link: https://vk.com/js/al/groups_edit.js?942087830
     Last Update: 10.2.117
 */

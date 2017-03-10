@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1140
+    Version: 1140
     Link: https://vk.com/js/al/common.js?1140
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4281861549
+    Version: 4281861549
     Link: https://vk.com/js/al/join.js?4281861549
     Last Update: 10.2.117
 */

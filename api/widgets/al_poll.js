@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2701047015
+    Version: 2701047015
     Link: https://vk.com/js/api/widgets/al_poll.js?2701047015
     Last Update: 10.2.117
 */

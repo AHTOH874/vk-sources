@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1217136033
+    Version: 1217136033
     Link: https://vk.com/js/api/widgets/al_post.js?1217136033
     Last Update: 10.2.117
 */

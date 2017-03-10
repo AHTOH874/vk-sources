@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1435892857
+    Version: 1435892857
     Link: https://vk.com/js/api/widgets/al_subscribe.js?1435892857
     Last Update: 10.2.117
 */

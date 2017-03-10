@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 223664659
+    Version: 223664659
     Link: https://vk.com/js/al/html5video.js?223664659
     Last Update: 10.2.117
 */

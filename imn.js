@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 110220273773
+    Version: 110220273773
     Link: https://vk.com/js/al/imn.js?110220273773
     Last Update: 10.2.117
 */

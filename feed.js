@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2219175661
+    Version: 2219175661
     Link: https://vk.com/js/al/feed.js?2219175661
     Last Update: 10.2.117
 */

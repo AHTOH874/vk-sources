@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2538879168
+    Version: 2538879168
     Link: https://vk.com/js/al/board.js?2538879168
     Last Update: 10.2.117
 */

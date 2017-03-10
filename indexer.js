@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1640179507
+    Version: 1640179507
     Link: https://vk.com/js/al/indexer.js?1640179507
     Last Update: 10.2.117
 */

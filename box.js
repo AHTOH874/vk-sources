@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 590267265
+    Version: 590267265
     Link: https://vk.com/js/al/box.js?590267265
     Last Update: 10.2.117
 */

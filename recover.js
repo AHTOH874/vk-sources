@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2830033131
+    Version: 2830033131
     Link: https://vk.com/js/al/recover.js?2830033131
     Last Update: 10.2.117
 */

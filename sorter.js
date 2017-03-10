@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 1976440538
+    Version: 1976440538
     Link: https://vk.com/js/al/sorter.js?1976440538
     Last Update: 10.2.117
 */

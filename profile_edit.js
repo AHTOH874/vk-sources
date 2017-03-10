@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 312998250
+    Version: 312998250
     Link: https://vk.com/js/al/profile_edit.js?312998250
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4203451993
+    Version: 4203451993
     Link: https://vk.com/js/al/calendar.js?4203451993
     Last Update: 10.2.117
 */

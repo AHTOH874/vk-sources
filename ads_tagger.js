@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2289308011
+    Version: 2289308011
     Link: https://vk.com/js/al/ads_tagger.js?2289308011
     Last Update: 10.2.117
 */

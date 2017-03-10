@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 128270649
+    Version: 128270649
     Link: https://vk.com/js/al/fave.js?128270649
     Last Update: 10.2.117
 */

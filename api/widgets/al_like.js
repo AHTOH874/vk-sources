@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 4053792122
+    Version: 4053792122
     Link: https://vk.com/js/api/widgets/al_like.js?4053792122
     Last Update: 10.2.117
 */

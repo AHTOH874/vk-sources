@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 662560525
+    Version: 662560525
     Link: https://vk.com/js/al/thumbs_edit.js?662560525
     Last Update: 10.2.117
 */

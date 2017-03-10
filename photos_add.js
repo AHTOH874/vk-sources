@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3448017910
+    Version: 3448017910
     Link: https://vk.com/js/al/photos_add.js?3448017910
     Last Update: 10.2.117
 */

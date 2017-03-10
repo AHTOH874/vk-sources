@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2438273057
+    Version: 2438273057
     Link: https://vk.com/js/al/single_pv.js?2438273057
     Last Update: 10.2.117
 */

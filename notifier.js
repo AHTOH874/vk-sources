@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 30586692953
+    Version: 30586692953
     Link: https://vk.com/js/al/notifier.js?30586692953
     Last Update: 10.2.117
 */

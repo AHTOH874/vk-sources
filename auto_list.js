@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 2419796116
+    Version: 2419796116
     Link: https://vk.com/js/al/auto_list.js?2419796116
     Last Update: 10.2.117
 */

@@ -1,7 +1,7 @@
 /*
     Commit by VK Source Updates
     Author: @iprxy
-Version: 3551917100
+    Version: 3551917100
     Link: https://vk.com/js/al/login.js?3551917100
     Last Update: 10.2.117
 */
