@@ -1,0 +1,95 @@
+/*
+    Commit by VK Source Updates
+    Author: @iprxy
+Version: 25546246687
+    Link: https://vk.com/css/al/widget_add_community_app.css?25546246687
+    Last Update: 10.2.117
+*/
+#widget_add_community_app_css {
+    display: none;
+}
+
+.add_community_app_success:before {
+    -ms-high-contrast-adjust: none;
+}
+
+.h4-text {
+    color: #000;
+    border-bottom: none;
+    font-size: 1em;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.add_community_app_card {
+    padding: 0 0 0 65px;
+    min-height: 50px;
+    line-height: 18px;
+}
+
+.add_community_app_card .add_community_app_card_name {
+    padding-top: 7px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.add_community_app_card .add_community_app_card_size {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #939393;
+}
+
+.add_community_app_card .add_community_app_card_photo {
+    margin-left: -65px;
+    width: 50px;
+    height: 50px;
+}
+
+.add_community_app_card .add_community_app_card_photo img {
+    width: 50px;
+    height: 50px;
+    vertical-align: top;
+    border-radius: 4px;
+}
+
+.add_community_app_groups {
+    margin: -7px 0 -12px;
+}
+
+.add_community_app_groups .add_community_app_group_app,.add_community_app_groups .add_community_app_group_app img {
+    vertical-align: top;
+    width: 34px;
+    height: 34px;
+    border-radius: 4px;
+}
+
+.add_community_app_groups .add_community_app_group_app {
+    margin-right: 10px;
+}
+
+.add_community_app_groups .flist_item_name {
+    width: 385px;
+}
+
+.add_community_app_success {
+    font-size: 14px;
+    line-height: 22px;
+    max-width: 510px;
+    margin: 0 auto;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.add_community_app_success:before {
+    margin: 100px auto 20px;
+    display: block;
+    content: '';
+    width: 48px;
+    height: 48px;
+    background: url(/images/widgets/widgets_msg_ok.png);
+}

@@ -1,0 +1,21 @@
+/*
+    Commit by VK Source Updates
+    Author: @iprxy
+Version: 12514139400
+    Link: https://vk.com/css/al/rtl.css?12514139400
+    Last Update: 10.2.117
+*/
+#rtl_css {
+    display: none;
+}
+
+.h4-text {
+    color: #000;
+    border-bottom: none;
+    font-size: 1em;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    margin: 0;
+    padding: 0;
+}

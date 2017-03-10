@@ -1,0 +1,171 @@
+/*
+    Commit by VK Source Updates
+    Author: @iprxy
+Version: 15779588127
+    Link: https://vk.com/css/landings/landings.css?15779588127
+    Last Update: 10.2.117
+*/
+#landings_landings_css {
+    display: none;
+}
+
+.h4-text {
+    color: #000;
+    border-bottom: none;
+    font-size: 1em;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.landings_frame {
+    position: relative;
+    clear: both;
+}
+
+.landings_frame:after {
+    content: "";
+    clear: both;
+    height: auto;
+}
+
+.landings_center {
+    text-align: center;
+}
+
+.landings_full_page {
+    position: fixed;
+    opacity: 1!important;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    top: 42px;
+    z-index: 100;
+    background: #fff;
+    overflow: auto;
+}
+
+.landings_slider_wrap {
+    position: relative;
+}
+
+.landings_slider_helper {
+    left: 0px;
+    overflow: hidden;
+}
+
+.landings_slider_helper,.landings_slider_item {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.landings_slider_item {
+    display: inline-block;
+    left: -100%;
+}
+
+.landings_slider_helper_anim_def {
+    transition: -webkit-transform 400ms ease-in-out;
+    -o-transition: transform 400ms ease-in-out, -o-transform 400ms ease-in-out;
+    transition: transform 400ms ease-in-out;
+    transition: transform 400ms ease-in-out, -webkit-transform 400ms ease-in-out, -o-transform 400ms ease-in-out;
+}
+
+.landings_slider_helper_anim_def .landings_slider_item.active,.landings_slider_helper_anim_def .landings_slider_item_def_next,.landings_slider_helper_anim_def .landings_slider_item_def_prev,.landings_slider_helper_anim_slide_fade .landings_slider_item.active,.landings_slider_helper_anim_slide_fade .landings_slider_item_def_next,.landings_slider_helper_anim_slide_fade .landings_slider_item_def_prev {
+    left: 0px;
+}
+
+.landings_slider_item_def_next,.landings_slider_item_slide_fade_next {
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    -o-transform: translateX(100%);
+    transform: translateX(100%);
+}
+
+.landings_slider_item_def_prev,.landings_slider_item_slide_fade_prev {
+    -webkit-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    -o-transform: translateX(-100%);
+    transform: translateX(-100%);
+}
+
+.landings_slider_item_slide_fade_next,.landings_slider_item_slide_fade_prev {
+    opacity: 0;
+}
+
+.landings_slider_item_def_started .landings_slider_item {
+    transition: -webkit-transform 400ms ease-in-out;
+    -o-transition: transform 400ms ease-in-out, -o-transform 400ms ease-in-out;
+    transition: transform 400ms ease-in-out;
+    transition: transform 400ms ease-in-out, -webkit-transform 400ms ease-in-out, -o-transform 400ms ease-in-out;
+}
+
+.landings_slider_item_slide_fade_started .landings_slider_item {
+    transition: opacity 400ms ease-in-out, -webkit-transform 400ms ease-in-out;
+    -o-transition: opacity 400ms ease-in-out, transform 400ms ease-in-out, -o-transform 400ms ease-in-out;
+    transition: opacity 400ms ease-in-out, transform 400ms ease-in-out;
+    transition: opacity 400ms ease-in-out, transform 400ms ease-in-out, -webkit-transform 400ms ease-in-out, -o-transform 400ms ease-in-out;
+}
+
+.landings_slider_item_slide_fade_started .landings_slider_item.active {
+    opacity: 1;
+}
+
+.landings_slider_item_slide_fade_started .landings_slider_item_slide_fade_next,.landings_slider_item_slide_fade_started .landings_slider_item_slide_fade_prev {
+    opacity: 0!important;
+}
+
+.landings_slider_helper_anim_fade .landings_slider_item {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    opacity: 0;
+    -o-transition: opacity 400ms ease-in-out;
+    transition: opacity 400ms ease-in-out;
+}
+
+.landings_slider_helper_anim_fade .landings_slider_item.active {
+    z-index: 2;
+    opacity: 1;
+}
+
+.landings_slider_points {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.landings_slider_point {
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+}
+
+.landings_slider_point:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -2px 0px 0px -2px;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+    background: #6d8eb2;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    transiiton: opacity 200ms ease;
+}
+
+.landings_slider_point.active:after {
+    opacity: 1;
+    -webkit-filter: none;
+    filter: none;
+}

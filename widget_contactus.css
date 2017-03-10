@@ -1,0 +1,132 @@
+/*
+    Commit by VK Source Updates
+    Author: @iprxy
+Version: 27900563629
+    Link: https://vk.com/css/al/widget_contactus.css?27900563629
+    Last Update: 10.2.117
+*/
+#widget_contactus_css {
+    display: none;
+}
+
+.wcontactus_button:before {
+    -ms-high-contrast-adjust: none;
+}
+
+.h4-text {
+    color: #000;
+    border-bottom: none;
+    font-size: 1em;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.wcontactus_button {
+    vertical-align: top;
+    color: #fff;
+    display: inline-block;
+    border-radius: 2px;
+    text-shadow: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-transition: background 200ms linear;
+    transition: background 200ms linear;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    box-sizing: border-box;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.1px;
+    background: #5e81a8;
+}
+
+.wcontactus_button:hover {
+    background: #6888ad;
+    text-decoration: none;
+}
+
+.wcontactus_button:active {
+    background: #5779a1;
+}
+
+.wcontactus_button:before {
+    content: '';
+    display: inline-block;
+    background: url(/images/icons/like_widget.png);
+    height: 8px;
+    width: 14px;
+}
+
+.wcontactus_height18 {
+    padding: 3px 6px;
+    height: 18px;
+}
+
+.wcontactus_height18:before {
+    margin-right: 6px;
+}
+
+.wcontactus_height18:active {
+    padding: 4px 6px 2px;
+}
+
+.wcontactus_height20 {
+    padding: 4px 6px;
+    height: 20px;
+}
+
+.wcontactus_height20:before {
+    margin-right: 6px;
+}
+
+.wcontactus_height20:active {
+    padding: 5px 6px 3px;
+}
+
+.wcontactus_height22 {
+    padding: 5px 7px;
+    height: 22px;
+}
+
+.wcontactus_height22:before {
+    margin-right: 7px;
+}
+
+.wcontactus_height22:active {
+    padding: 6px 7px 4px;
+}
+
+.wcontactus_height24 {
+    padding: 6px 9px;
+    height: 24px;
+}
+
+.wcontactus_height24:before {
+    margin-right: 9px;
+}
+
+.wcontactus_height24:active {
+    padding: 7px 9px 5px;
+}
+
+.wcontactus_height30 {
+    padding: 9px 11px;
+    height: 30px;
+}
+
+.wcontactus_height30:before {
+    margin-right: 10px;
+}
+
+.wcontactus_height30:active {
+    padding: 10px 11px 8px;
+}

@@ -1,0 +1,411 @@
+/*
+    Commit by VK Source Updates
+    Author: @iprxy
+Version: 13411435776
+    Link: https://vk.com/css/landings/desktop_messenger.css?13411435776
+    Last Update: 10.2.117
+*/
+#landings_desktop_messenger_css {
+    display: none;
+}
+
+.landing_desktop_messenger_head .messenger_logo_icon,.landing_desktop_messenger_promo,.landing_desktop_messenger_promo.platform_window {
+    -ms-high-contrast-adjust: none;
+}
+
+.h4-text {
+    color: #000;
+    border-bottom: none;
+    font-size: 1em;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.landing_desktop_messenger_content_wrap {
+    position: relative;
+    height: 100%;
+    width: 962px;
+    margin: 0 auto;
+    display: table;
+    max-height: 1200px;
+}
+
+.landing_desktop_messenger_content {
+    display: table-cell;
+    padding: 68px 0 106px;
+}
+
+.landing_desktop_messenger {
+    font-family: -apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.landing_desktop_messenger .download_button {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    background: #5f84b5;
+    color: #fff;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 11px 20px 13px 46px;
+    border-radius: 100px;
+    margin-top: 24px;
+    -o-transition: background 150ms ease-in-out;
+    transition: background 150ms ease-in-out;
+    position: relative;
+    cursor: pointer;
+    text-decoration: none!important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 500;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
+
+.landing_desktop_messenger .download_button:hover {
+    background: #658bbd;
+}
+
+.landing_desktop_messenger .download_button:active {
+    background: #587db0;
+}
+
+.landing_desktop_messenger .download_button:after {
+    content: '';
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2218px%22%20height%3D%2222px%22%20viewBox%3D%224%200%2018%2022%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%0A%20%20%3Cpath%20d%3D%22M19.039136%2C11.6894653%20C19.0112964%2C8.90333127%2021.3180166%2C7.56713334%2021.4210575%2C7.50074668%20C20.1249657%2C5.60969382%2018.1059499%2C5.35063547%2017.3864735%2C5.32068628%20C15.66822%2C5.14722161%2014.0337438%2C6.32933375%2013.16171%2C6.32933375%20C12.291874%2C6.32933375%2010.9462226%2C5.3463386%209.52118965%2C5.3721628%20C7.64835321%2C5.39992058%205.92148061%2C6.45793909%204.95713662%2C8.1303242%20C3.0112967%2C11.4969225%204.45882543%2C16.4843005%206.3553643%2C19.2146612%20C7.28208608%2C20.5511599%208.38713629%2C22.0522288%209.83802645%2C21.9986038%20C11.2352198%2C21.9430023%2011.7635685%2C21.0971633%2013.4527758%2C21.0971633%20C15.14194%2C21.0971633%2015.6168073%2C21.9986038%2017.0953646%2C21.970932%20C18.5988742%2C21.9430882%2019.5514101%2C20.6088669%2020.4717537%2C19.2682861%20C21.5359496%2C17.7178033%2021.9741428%2C16.2166914%2022%2C16.1396485%20C21.9666011%2C16.1244376%2019.0681822%2C15.0173488%2019.039136%2C11.6894653%20L19.039136%2C11.6894653%20Z%20M16.2608669%2C3.51316459%20C17.0309371%2C2.58164595%2017.5507098%2C1.2892761%2017.4089262%2C0%20C16.2996957%2C0.0450312066%2014.9551648%2C0.736698509%2014.1593235%2C1.66611168%20C13.4452341%2C2.49059526%2012.8201365%2C3.80651196%2012.987648%2C5.07000684%20C14.2259489%2C5.16634268%2015.4899778%2C4.44257775%2016.2608669%2C3.51316459%20L16.2608669%2C3.51316459%20Z%22%20id%3D%22ios%22%20stroke%3D%22none%22%20fill%3D%22%23FFFFFF%22%20fill-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E");
+    width: 18px;
+    height: 22px;
+}
+
+.landing_desktop_messenger .download_button.platform_window:after {
+    background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2222px%22%20height%3D%2220px%22%20viewBox%3D%222%203%2022%2020%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%0A%20%20%3Cpath%20d%3D%22M10%2C20.75%20L3%2C19.5384615%20L3%2C14%20L10%2C14%20L10%2C20.75%20Z%20M12%2C21.0961538%20L23%2C23%20L23%2C14%20L12%2C14%20L12%2C21.0961538%20Z%20M10%2C5.27184466%20L3%2C6.49514563%20L3%2C12%20L10%2C12%20L10%2C5.27184466%20Z%20M12%2C4.9223301%20L23%2C3%20L23%2C12%20L12%2C12%20L12%2C4.9223301%20Z%22%20id%3D%22Combined-Shape-Copy%22%20stroke%3D%22none%22%20fill%3D%22%23FFFFFF%22%20fill-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E");
+    top: 11px;
+    left: 15px;
+    height: 20px;
+    width: 20px;
+}
+
+.landing_desktop_messenger .download_button.download_button_mobile {
+    padding: 11px 37px 12px;
+    margin-top: 23px;
+    display: inline-block;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.landing_desktop_messenger .download_button.download_button_mobile:after {
+    display: none;
+}
+
+.landing_desktop_messenger .other_platform_button {
+    height: 42px;
+    width: 42px;
+    border: 1px solid rgba(117,151,195,.5);
+    -o-transition: border-color 150ms ease-in-out;
+    transition: border-color 150ms ease-in-out;
+    border-radius: 100px;
+    margin: 24px 0 0 10px;
+    cursor: pointer;
+    background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2222px%22%20height%3D%2220px%22%20viewBox%3D%222%203%2022%2020%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%0A%20%20%3Cpath%20d%3D%22M10%2C20.75%20L3%2C19.5384615%20L3%2C14%20L10%2C14%20L10%2C20.75%20Z%20M12%2C21.0961538%20L23%2C23%20L23%2C14%20L12%2C14%20L12%2C21.0961538%20Z%20M10%2C5.27184466%20L3%2C6.49514563%20L3%2C12%20L10%2C12%20L10%2C5.27184466%20Z%20M12%2C4.9223301%20L23%2C3%20L23%2C12%20L12%2C12%20L12%2C4.9223301%20Z%22%20id%3D%22Combined-Shape-Copy%22%20stroke%3D%22none%22%20fill%3D%22%235f84b5%22%20fill-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E") center 11px no-repeat;
+}
+
+.landing_desktop_messenger .other_platform_button.platform_window {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2218px%22%20height%3D%2222px%22%20viewBox%3D%224%200%2018%2022%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%0A%20%20%3Cpath%20d%3D%22M19.039136%2C11.6894653%20C19.0112964%2C8.90333127%2021.3180166%2C7.56713334%2021.4210575%2C7.50074668%20C20.1249657%2C5.60969382%2018.1059499%2C5.35063547%2017.3864735%2C5.32068628%20C15.66822%2C5.14722161%2014.0337438%2C6.32933375%2013.16171%2C6.32933375%20C12.291874%2C6.32933375%2010.9462226%2C5.3463386%209.52118965%2C5.3721628%20C7.64835321%2C5.39992058%205.92148061%2C6.45793909%204.95713662%2C8.1303242%20C3.0112967%2C11.4969225%204.45882543%2C16.4843005%206.3553643%2C19.2146612%20C7.28208608%2C20.5511599%208.38713629%2C22.0522288%209.83802645%2C21.9986038%20C11.2352198%2C21.9430023%2011.7635685%2C21.0971633%2013.4527758%2C21.0971633%20C15.14194%2C21.0971633%2015.6168073%2C21.9986038%2017.0953646%2C21.970932%20C18.5988742%2C21.9430882%2019.5514101%2C20.6088669%2020.4717537%2C19.2682861%20C21.5359496%2C17.7178033%2021.9741428%2C16.2166914%2022%2C16.1396485%20C21.9666011%2C16.1244376%2019.0681822%2C15.0173488%2019.039136%2C11.6894653%20L19.039136%2C11.6894653%20Z%20M16.2608669%2C3.51316459%20C17.0309371%2C2.58164595%2017.5507098%2C1.2892761%2017.4089262%2C0%20C16.2996957%2C0.0450312066%2014.9551648%2C0.736698509%2014.1593235%2C1.66611168%20C13.4452341%2C2.49059526%2012.8201365%2C3.80651196%2012.987648%2C5.07000684%20C14.2259489%2C5.16634268%2015.4899778%2C4.44257775%2016.2608669%2C3.51316459%20L16.2608669%2C3.51316459%20Z%22%20id%3D%22ios%22%20stroke%3D%22none%22%20fill%3D%22%235f84b5%22%20fill-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E");
+    background-position: center 9px;
+}
+
+.landing_desktop_messenger .other_platform_button:hover {
+    border-color: rgba(117,151,195,.75);
+}
+
+.landing_desktop_messenger .other_platform_button:active {
+    border-color: #7597c3;
+}
+
+.landing_desktop_messenger_head {
+    max-width: 962px;
+    width: 100%;
+    min-width: 700px;
+    margin: 0 auto;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.landing_desktop_messenger_head .messenger_logo_icon {
+    height: 46px;
+    width: 46px;
+    background-image: url(/images/landings/desktop_messenger/logo.png);
+    margin-top: 22px;
+}
+
+.landing_desktop_messenger_head .messenger_logo_text {
+    font-size: 24px;
+    line-height: 29px;
+    margin: 31px 0 0 14px;
+}
+
+.landing_desktop_messenger_head .messenger_beta {
+    background: #e5ebf1;
+    color: #657a90;
+    line-height: 16px;
+    font-size: 14px;
+    padding: 3px 10px;
+    border-radius: 100px;
+    margin: 37px 0 0 7px;
+    font-weight: 500;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
+
+.landings_hidden_platform {
+    display: none;
+}
+
+.landing_desktop_messenger_description {
+    font-size: 28px;
+    line-height: 40px;
+    color: #000;
+    margin: 0 auto;
+    width: 100%;
+    min-width: 700px;
+    font-weight: 300;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
+
+.landing_desktop_messenger_description_full {
+    height: 28vh;
+    display: table;
+    width: 100%;
+    max-height: 350px;
+    min-height: 170px;
+}
+
+.landing_desktop_messenger_description_text {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.landing_desktop_messenger_promo {
+    width: 804px;
+    height: 30vh;
+    max-height: 328px;
+    min-height: 250px;
+    margin: 0 auto;
+    background: url(/images/landings/desktop_messenger/mac_promo.png) no-repeat;
+    background-size: contain;
+    background-position: 50%;
+}
+
+.landing_desktop_messenger_promo.platform_window {
+    background-image: url(/images/landings/desktop_messenger/win_promo.png);
+}
+
+.landing_desktop_messenger_tools {
+    width: 881px;
+    margin: 49px auto 0;
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool {
+    width: 140px;
+    margin-left: 45px;
+    float: left;
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool:first-child {
+    margin-left: 0;
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool .tool_icon {
+    background: url('/images/svg_icons/desktop_messenger_messages.svg') 50% no-repeat;
+    height: 72px;
+    width: 72px;
+    margin: 0 auto;
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool .tool_icon_chats {
+    background-image: url('/images/svg_icons/desktop_messenger_chats.svg');
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool .tool_icon_media {
+    background-image: url('/images/svg_icons/desktop_messenger_media.svg');
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool .tool_icon_audio_messages {
+    background-image: url('/images/svg_icons/desktop_messenger_audio_messages.svg');
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool .tool_icon_docs {
+    background-image: url('/images/svg_icons/desktop_messenger_docs.svg');
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool .tool_title {
+    color: #222;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    margin-top: 10px;
+}
+
+.landing_desktop_messenger_tools .landing_desktop_messenger_tool .tool_caption {
+    color: #828282;
+    margin-top: 9px;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+.landing_desktop_messenger_footer {
+    max-width: 962px;
+    width: 100%;
+    min-width: 700px;
+    font-size: 14px;
+    line-height: 16px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.landing_desktop_messenger_change_lang span {
+    color: #828282;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_head {
+    width: 273px;
+    min-width: 273px;
+}
+
+.landing_desktop_messenger_mob .messenger_logo_icon {
+    margin-top: 25px;
+}
+
+.landing_desktop_messenger_mob .messenger_logo_text {
+    margin-top: 34px;
+}
+
+.landing_desktop_messenger_mob .messenger_beta {
+    margin-top: 40px;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_description {
+    font-size: 20px;
+    line-height: 28px;
+    margin-top: 16px;
+    min-width: 100%;
+    width: 100%;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_promo_mob_wrap {
+    max-width: 345px;
+    margin: 24px auto 0;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_promo_mob {
+    width: 100%;
+    padding-top: 58.84057971%;
+    background: url('/images/landings/desktop_messenger/promo_mob.png') 50% no-repeat;
+    background-size: 100%;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_mob_warning {
+    color: #828282;
+    font-size: 15px;
+    line-height: 17px;
+    margin-top: 14px;
+    margin-bottom: 30px;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tools {
+    width: 100%;
+    max-width: 300px;
+    margin: 32px auto 20px;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool {
+    width: 100%;
+    float: none;
+    text-align: left;
+    margin-left: 0;
+    margin-top: 9px;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool:first-child {
+    margin-top: 0;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_icon {
+    width: 54px;
+    height: 54px;
+    float: left;
+    background-image: url('/images/svg_icons/desktop_messenger_m_messages.svg');
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_icon.tool_icon_chats {
+    background-image: url('/images/svg_icons/desktop_messenger_m_chats.svg');
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_icon.tool_icon_media {
+    background-image: url('/images/svg_icons/desktop_messenger_m_media.svg');
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_icon.tool_icon_audio_messages {
+    background-image: url('/images/svg_icons/desktop_messenger_m_audio_messages.svg');
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_icon.tool_icon_docs {
+    background-image: url('/images/svg_icons/desktop_messenger_m_docs.svg');
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_info {
+    margin-left: 66.5px;
+    padding-top: 8px;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_title {
+    font-size: 17px;
+    line-height: 18px;
+    margin-top: 0;
+    letter-spacing: -0.41px;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_tool .tool_caption {
+    font-size: 13px;
+    line-height: 17px;
+    margin-top: 3px;
+    letter-spacing: -0.08px;
+}
+
+.landing_desktop_messenger_mob .landing_desktop_messenger_head {
+    position: static;
+}
+
+.is_2x .messenger_logo_icon {
+    background-image: url('/images/landings/desktop_messenger/logo_2x.png')!important;
+    background-size: 46px 46px;
+}
+
+.is_2x .landing_desktop_messenger_promo_mob {
+    background-image: url('/images/landings/desktop_messenger/promo_mob_2x.png');
+}

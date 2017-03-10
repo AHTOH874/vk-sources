@@ -1,0 +1,747 @@
+/*
+    Commit by VK Source Updates
+    Author: @iprxy
+Version: 12757623934
+    Link: https://vk.com/css/al/helpdesk.css?12757623934
+    Last Update: 10.2.117
+*/
+#helpdesk_css {
+    display: none;
+}
+
+.h4-text {
+    color: #000;
+    border-bottom: none;
+    font-size: 1em;
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.body_helpdesk .mention_tt_actions {
+    display: none;
+}
+
+.tickets_add_search {
+    padding: 10px 25px;
+    background: #f7f8fa;
+    text-align: center;
+}
+
+.tickets_add_search .ui_search {
+    border: 1px solid #d3d9de;
+}
+
+.tickets_add_content {
+    padding: 10px 25px;
+    border-top: 1px solid #e7e8ec;
+}
+
+.tickets_add_bug_row {
+    padding: 8px 7px;
+    border-top: 1px solid #e7e8ec;
+    cursor: pointer;
+}
+
+.tickets_add_bug_row.only {
+    cursor: default;
+}
+
+.tickets_add_bug_row.closed {
+    background-color: #f7f7f7;
+}
+
+.tickets_add_bug_row.over {
+    background-color: #edf1f5;
+}
+
+.tickets_add_bug_row.over.detailed {
+    background-color: #fff;
+}
+
+.tickets_add_bug_row.closed.over.detailed {
+    background-color: #f7f7f7;
+}
+
+.tickets_add_bug_row.first {
+    border-top: none;
+}
+
+.tickets_add_bug_content {
+    float: left;
+    overflow: hidden;
+}
+
+.tickets_add_bug_title__a {
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #42648b;
+}
+
+.tickets_add_bug_full_text {
+    cursor: default;
+    display: none;
+    padding-top: 5px;
+}
+
+.tickets_add_bug_row.only .tickets_add_bug_full_text {
+    display: block;
+}
+
+.tickets_add_bug_text {
+    line-height: 160%;
+}
+
+.tickets_add_bug_links {
+    padding-top: 5px;
+    color: #777;
+}
+
+.tickets_add_button {
+    text-align: center;
+}
+
+.tickets_add_button .flat_button {
+    margin: 10px 0 0;
+}
+
+.helpdesk_total_stats.paginated_table {
+    padding: 10px;
+    width: auto;
+}
+
+.helpdesk_total_stats.paginated_table td,.helpdesk_total_stats.paginated_table th {
+    cursor: auto;
+}
+
+.helpdesk_emergency .info_msg {
+    margin: 10px 10px -3px;
+}
+
+.helpdesk_emergency .flat_button {
+    margin-top: 10px;
+}
+
+.tickets_all_search {
+    background: #f7f7f7;
+}
+
+.tickets_all_search .ui_search {
+    border: 1px solid #e7e8ec;
+}
+
+.tickets_all_search_bar {
+    padding: 5px 5px 0;
+}
+
+.helpdesk_ignore_autoanswer {
+    margin-top: 4px;
+}
+
+.tickets_all_selected {
+    background: #f7f7f7;
+    padding: 10px;
+}
+
+.tickets_all_selected .ui_search {
+    border: 1px solid #e7e8ec;
+}
+
+.tickets_all_selected .flat_button {
+    float: right;
+}
+
+.tickets_all_selected .flat_button.secondary {
+    margin-right: 10px;
+}
+
+.tickets_all_selected .tickets_subtab1 {
+    margin: 3px 1px 2px;
+}
+
+.tickets_all_search_options {
+    padding: 10px;
+    border-bottom: 1px solid #e7e8ec;
+}
+
+.tickets_all_search_options .radiobtn {
+    color: #656565;
+}
+
+.tickets_all_search_options .radiobtn.on {
+    color: #000;
+}
+
+.tickets_all_search_options .radiobtn {
+    float: left;
+    margin-right: 35px;
+    white-space: nowrap;
+}
+
+.tickets_extra_options {
+    padding: 10px 0 5px;
+}
+
+.tickets_extra_options input.text {
+    width: 105px;
+}
+
+.tickets_extra_column {
+    float: left;
+    width: 35%;
+}
+
+.tickets_extra_column.tickets_extra_column_last {
+    width: 30%;
+}
+
+.tickets_extra_bottom {
+    margin-top: 10px;
+}
+
+.tickets_extra_row {
+    display: block;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.tickets_extra_row:after {
+    content: '.';
+    display: block;
+    height: 0;
+    font-size: 0;
+    line-height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+* html .tickets_extra_row {
+    height: 1%;
+}
+
+.tickets_extra_row:last-child {
+    margin-bottom: 0;
+}
+
+.tickets_extra_label {
+    float: left;
+    margin-top: 5px;
+    width: 125px;
+    color: #555;
+}
+
+.tickets_extra_column_last .tickets_extra_label {
+    width: 100px;
+}
+
+.tickets_extra_title {
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 10px 0 15px;
+    color: #555;
+}
+
+.add_bug_form {
+    padding: 20px;
+    display: none;
+}
+
+.add_bug_form .label {
+    float: left;
+    padding: 4px 0 1px;
+    width: 85px;
+    color: #656565;
+}
+
+.add_bug_form .value {
+    margin-left: 85px;
+    overflow: hidden;
+    padding-bottom: 5px;
+}
+
+.add_bug_form .value input.text {
+    width: 250px;
+}
+
+.add_bug_form textarea {
+    height: 170px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.helpdesk_ui_tabs {
+    background: #f7f7f7;
+}
+
+.helpdesk_ui_subtabs {
+    font-size: 12px;
+}
+
+.helpdesk_ui_subtabs .ui_tab,.helpdesk_ui_subtabs .ui_tab_plain {
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.helpdesk_admin_moderators .msg {
+    margin: 5px 0 20px;
+}
+
+.tickets_favorites_groups {
+    margin-bottom: 8px;
+    color: #2a5885;
+    font-size: 13px;
+    line-height: 19.5px;
+}
+
+.tickets_favorites_groups_tab__edit {
+    float: right;
+    margin-left: 8px;
+    display: none;
+    font-size: 12.5px;
+    line-height: 13px;
+    opacity: 0.5;
+}
+
+.tickets_favorites_groups_tab__edit:hover {
+    text-decoration: underline;
+    opacity: 1;
+}
+
+.tickets_favorites_groups_tab_sel .tickets_favorites_groups_tab__edit {
+    display: inline-block;
+}
+
+.tickets_favorites_groups_tab {
+    border-radius: 10px;
+    float: left;
+    margin-right: 8px;
+    padding: 3px 10px;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+}
+
+.tickets_favorites_groups_tab:hover {
+    background: #e5ebf1;
+    text-decoration: underline;
+}
+
+.tickets_favorites_groups_tab.tickets_favorites_groups_tab_sel:hover {
+    background: #6888ad;
+    text-decoration: none;
+}
+
+.tickets_favorites_groups_add {
+    float: left;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 13px;
+    opacity: 0.7;
+}
+
+.tickets_favorites_groups_add:hover {
+    opacity: 1;
+}
+
+.tickets_favorites_groups_tab_sel {
+    background: #5e81a8;
+    color: #fff;
+}
+
+.tickets_favorites_editor__text {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.tickets_troll_img {
+    width: 36px;
+    height: 36px;
+    right: 0;
+    top: 10px;
+    background: url('/images/troll.gif?1') no-repeat 0 0;
+    background-size: 36px;
+    position: absolute;
+}
+
+.support_faq_suggestion_row {
+    margin-bottom: 5px;
+}
+
+.support_faq_suggestion_wrap #tickets_faq_list {
+    padding: 0;
+    border-top: none;
+}
+
+.support_faq_suggestion_wrap .faq_row {
+    margin: 0;
+}
+
+.support_faq_suggestion_wrap .faq_show_all_wrap {
+    display: none;
+}
+
+.helpdesk_m_list {
+    padding: 10px;
+}
+
+.helpdesk_m_open_all {
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    font-size: 13px;
+}
+
+.helpdesk_m_table {
+    border: 1px solid #d2d8df;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.helpdesk_m_table .h_cell {
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 8px;
+    border-left: 1px solid #ecf0f5;
+    border-right: 1px solid #d2d8df;
+    border-bottom: 1px solid #d2d8df;
+    background: #e0e6ec;
+    color: #2f5879;
+    line-height: 1.09em;
+}
+
+.helpdesk_m_table .h_cell.id {
+    border-left: none;
+    color: #2f5879;
+}
+
+.helpdesk_m_table .h_cell.time {
+    border-right: none;
+}
+
+.helpdesk_m_table .cell {
+    line-height: 1.09em;
+    padding: 8px;
+}
+
+.helpdesk_m_table .cell_block {
+    display: block;
+    width: 490px!important;
+}
+
+.helpdesk_m_table .id {
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width: 75px;
+    padding-right: 0;
+    color: #42648b;
+}
+
+.helpdesk_m_table_row__normal .helpdesk_m_table .id {
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
+
+.helpdesk_m_table .name {
+    width: 490px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.helpdesk_m_table__ticket_name {
+    font-weight: 600;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    color: #42648b;
+    display: block;
+    padding: 8px;
+}
+
+.helpdesk_m_table_row__normal .helpdesk_m_table__ticket_name {
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
+
+.helpdesk_m_table .even,.helpdesk_m_table>tbody>tr:nth-child(even) {
+    background: #eff2f4;
+}
+
+.helpdesk_m_actions {
+    float: right;
+    margin: 1px 0;
+    line-height: 2.09em;
+    width: 350px;
+}
+
+.helpdesk_m_action {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.helpdesk_spec_agents_filter {
+    padding: 0 10px;
+    margin: 10px 0 0;
+}
+
+.helpdesk_tag_link {
+    float: left;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.helpdesk_stats_table.paginated_table {
+    margin: 0;
+    padding: 10px;
+    width: auto;
+}
+
+.helpdesk_stats_table .paginated_table_table {
+    border-collapse: collapse;
+}
+
+.helpdesk_stats_table .paginated_table_table>tbody>tr:hover td {
+    background: #edf1f5;
+}
+
+.helpdesk_stats_table .paginated_table_table>tbody>tr.helpdesk_stats_data_row:hover td {
+    background: #fff;
+}
+
+.helpdesk_stats_data_row {
+    border-top: 1px solid #dae1e8;
+}
+
+#support_admin_moderators,#support_admin_specagents {
+    padding: 10px;
+    width: auto;
+}
+
+.support_admin_moderators_row {
+    cursor: pointer;
+}
+
+.support_moder_detailed_stats {
+    display: none;
+}
+
+.helpdesk_stats_data {
+    padding: 10px 0;
+}
+
+.helpdesk_stats_title {
+    float: left;
+    padding: 0 0 0 48px;
+    height: 20px;
+    width: 225px;
+    line-height: 1.81em;
+}
+
+.helpdesk_stats_value {
+    float: left;
+    padding: 0 0 0 25px;
+    line-height: 1.81em;
+    height: 20px;
+}
+
+#support_admin_moderators .detailed td,#support_admin_moderators .support_admin_moderators_row:hover td,#support_admin_specagents .support_admin_specagents_row:hover td {
+    background: #edf1f5;
+}
+
+.support_stats_loading {
+    height: 649px;
+    background: url(/images/progress7.gif) 50% 50% no-repeat;
+    border-top: 1px solid #dae1e8;
+}
+
+.support_to_question {
+    font-weight: 400;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+}
+
+.support_plus_rate {
+    color: #080;
+}
+
+.support_minus_rate {
+    color: #840;
+}
+
+.support_medium_rate {
+    color: #880;
+}
+
+#tickets_content .paginated_table table {
+    border: none;
+}
+
+#tickets_content .paginated_table_header th.paginated_table_cell {
+    border-width: 0px 0px 1px 1px;
+    background-color: #f7f7f7;
+    border-color: #dae1e8;
+}
+
+#tickets_content .paginated_table_header th.paginated_table_cell:hover {
+    background-color: #e3e9ee;
+}
+
+#tickets_content .paginated_table_header th.paginated_table_cell div {
+    border: none;
+}
+
+#tickets_content th.paginated_table_cell span.sorted {
+    background: url('/images/flydead.gif') no-repeat scroll right 1px transparent;
+    padding-right: 17px;
+}
+
+#tickets_content .paginated_table td.paginated_table_cell {
+    padding: 0px 5px;
+    border-color: #eee;
+    border-style: solid;
+    border-width: 1px 0px 0px;
+    height: auto;
+}
+
+#tickets_content .paginated_table_cell img {
+    width: 25px;
+    height: 25px;
+    display: block;
+}
+
+#support_admin_moderators .detailed td.paginated_table_cell,#support_admin_moderators .support_admin_moderators_row.after_over td.paginated_table_cell.paginated_table_cell,#support_admin_moderators .support_admin_moderators_row.over td.paginated_table_cell.paginated_table_cell,#support_admin_specagents .support_admin_specagents_row.after_over td.paginated_table_cell,#support_admin_specagents .support_admin_specagents_row.over td.paginated_table_cell {
+    border-color: #dae1e8;
+}
+
+#tickets_content .paginated_table td.paginated_table_cell.first_column {
+    padding: 7px 3px 7px 7px;
+}
+
+#tickets_content .paginated_table_header th.paginated_table_cell div {
+    padding: 10px 5px;
+}
+
+#tickets_content .paginated_table_header th.paginated_table_cell.first_column div {
+    padding-left: 7px;
+}
+
+#tickets_content .paginated_table_row.my,#tickets_content .paginated_table_row.my td {
+    background: #f4ebd6;
+}
+
+.support_stats_wrap {
+    padding: 10px;
+}
+
+.support_stats_wrap .stats_flash_wrap {
+    padding-left: 5px;
+}
+
+.support_moder_stats_wrap {
+    padding: 10px 10px 0;
+}
+
+.support_moder_stats_wrap .stats_flash_wrap {
+    padding-left: 5px;
+    width: 555px;
+    margin-bottom: 7px;
+}
+
+.helpdesk_switches_list {
+    background-color: #f7f7f7;
+}
+
+.helpdesk_switches_list,.helpdesk_switch {
+    border-bottom: 1px solid #e7e8ec;
+    padding: 10px;
+}
+
+.helpdesk_switch:last-child {
+    border-bottom: 0 none;
+}
+
+.helpdesk_switch .flat_button {
+    float: right;
+    width: 102px;
+}
+
+.helpdesk_switch__content {
+    float: left;
+    width: 600px;
+}
+
+.helpdesk_switch__title {
+    color: #656565;
+}
+
+.helpdesk_switch__descr {
+    margin-top: 4px;
+    color: #939393;
+    font-size: 12.5px;
+}
+
+.helpdesk_switch_disable_btn {
+    display: none;
+}
+
+.helpdesk_switch_enabled {
+    border-color: #b2bcc5;
+}
+
+.helpdesk_switch_enabled .helpdesk_switch__title {
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #000;
+}
+
+.helpdesk_switch_enabled .helpdesk_switch__descr {
+    color: #000;
+}
+
+.helpdesk_switch_enabled .helpdesk_switch_enable_btn {
+    display: none;
+}
+
+.helpdesk_switch_enabled .helpdesk_switch_disable_btn {
+    display: inline-block;
+}
+
+.helpdesk_switches_logs {
+    padding: 10px;
+}
+
+.helpdesk_switches_log {
+    border-bottom: 1px solid #e7e8ec;
+    padding: 15px 10px;
+    color: #656565;
+}
+
+.helpdesk_switches_log:last-child {
+    border-bottom: 0 none;
+}
+
+.helpdesk_switches_log>b {
+    font-weight: 600;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    color: #000;
+}
